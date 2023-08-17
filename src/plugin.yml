@@ -1,0 +1,5 @@
+name: MoonCoreBungee
+version: 1.0
+main: com.redrixone.Main
+description: A bungeecord core
+author: RedrixOne
